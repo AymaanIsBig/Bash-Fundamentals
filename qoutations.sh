@@ -6,3 +6,6 @@
 # double qoutes: allow variables
 
 name="Jashan"
+
+echo "Hello $name"
+echo 'Hello $name'
