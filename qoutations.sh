@@ -9,3 +9,6 @@ name="Jashan"
 
 echo "Hello $name"
 echo 'Hello $name'
+
+# common mistake: using single qoutes and expecting variables
+# use double qoutes for variable expansion
