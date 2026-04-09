@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # printf function
-# what; used for formatted output 
+# what: used for formatted output 
