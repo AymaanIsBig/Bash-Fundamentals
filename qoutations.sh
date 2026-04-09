@@ -4,3 +4,5 @@
 # what: qoutes control how text is understood
 # single qoutes: literal
 # double qoutes: allow variables
+
+name="Jashan"
