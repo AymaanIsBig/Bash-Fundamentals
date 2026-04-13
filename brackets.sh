@@ -5,6 +5,10 @@
 
 num=10
 
-if [ $num -gt 5]; then
+if [ $num -gt 5 ]; then
 	echo "greater than 5"
 fi
+
+# common mistakes
+# missing space in brackets
+#always use spaces: [ $num -gt 5 ]
