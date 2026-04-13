@@ -2,3 +2,5 @@
 
 # brackets
 # used for condition testing 
+
+num=10
