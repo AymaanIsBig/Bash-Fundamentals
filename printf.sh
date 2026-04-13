@@ -9,4 +9,4 @@ age=16
 printf "Name: %s/nAge: %d/n" "$name" "$age"
 
 # common mistakes: wrong format 
-# %s = string %d= integer
+# %s = string %d = integer
