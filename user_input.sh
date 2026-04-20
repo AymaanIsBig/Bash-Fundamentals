@@ -7,3 +7,8 @@ read name
 
 echo "hello $name"
 
+# common issue
+# empty input
+
+# fix this issue
+# validate user input
