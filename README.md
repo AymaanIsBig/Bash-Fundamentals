@@ -31,4 +31,14 @@ Git is edtremely important in the tech industry. Almost all software development
 It allows multiple developers to work on the same project without overwriting each other's work.
 Features like branches and pull requests make teamwork more organized amd efficient.
 Even for individual developers, Git is useful beacuse it keeps a full history of work. This makes it easier to track progress, fix bugs and maintain projects over time.
-Because of this, learning Git is an important skill for future careers in programming and IT. 
+Because of this, learning Git is an important skill for future careers in programming and IT.
+
+## Challenges i have Faced
+ 
+One of the main challenges i faced was understanding how Git commits should be used properly.
+At first, i would try to do too much work at once instead of commiting small changes.
+I had to learn to break my work into smaller steps and parts.
+Another challenge was bash syntax. Things like brackets, conditionals and spacing were confusing at first. Im starting to get the hang of it though. 
+For example, missing spaces in brackets would cause the code and scirpt to not work, causing errors that were not always easy to understand anf figure out at first.
+I overcame these challenges by practising more and honing my skills, paying more attention to detail and reading error messages carefully.
+Over time, I have became more and more comfortable with bash and Git.
