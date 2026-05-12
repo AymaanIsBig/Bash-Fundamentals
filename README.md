@@ -42,3 +42,12 @@ Another challenge was bash syntax. Things like brackets, conditionals and spacin
 For example, missing spaces in brackets would cause the code and scirpt to not work, causing errors that were not always easy to understand anf figure out at first.
 I overcame these challenges by practising more and honing my skills, paying more attention to detail and reading error messages carefully.
 Over time, I have became more and more comfortable with bash and Git.
+
+## Challenges i am Currentlty Facing
+
+I am currently working on understanding more advanced bash concepts, espeically combining multiple concepts into one script.
+For example, using loops together with user input and conditionals can become confusing.
+Another challenge is writing cleaner and more efficent scripts instead of just making them work.
+I want to imrpove how I structure my code so that it is easier to read as well as maintain.
+To challenge myself further, I plan to create more complex scripts that include multiple features, such as a menu system using case statements, loops and functions.
+This will help me move beyond basic examples and apply what I have learned in a more practical way
