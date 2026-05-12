@@ -8,3 +8,9 @@ greet () {
 }
 
 greet
+
+# common issue
+# forgetting to call function
+
+# fix
+# write funtion name to execute it
