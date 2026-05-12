@@ -4,3 +4,5 @@
 # used when variable is empty
 
 name=${1;-"guest"}
+
+echo "hello $name"
