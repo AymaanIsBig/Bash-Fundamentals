@@ -6,3 +6,5 @@
 greet () {
 	echo "hello"
 }
+
+greet
