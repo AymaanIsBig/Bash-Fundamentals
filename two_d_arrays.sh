@@ -2,3 +2,5 @@
 
 # two-dimensional arrays
 # simulated using strings
+
+matrix=("1 2" "3 4")
